@@ -56,7 +56,7 @@
     <br>
     <br>
     <h4>2.1 Landasan Teori</h4>
-    <ol>
+    <ol><br>
         <li><strong>PHP</strong></li>
         <p>PHP (PHP: Hypertext Preprocessor) adalah sebuah bahasa pemrograman server side scripting yang bersifat open source.<br>
             Sebagai sebuah scripting language, PHP menjalankan instruksi pemrograman saat proses runtime. Hasil dari instruksi tentu akan berbeda tergantung data yang diproses.<br>
@@ -78,7 +78,7 @@
             <li><strong>P (Perl)</strong></li>
             <p>Perl merupakan bahasa pemrograman untuk segala kebutuhan (cross platform) yang berfungsi sebagai penunjuk eksistensi dari PHP. 
                 Perl biasanya banyak digunakan untuk website development pada sistem berbasis CMS (Content Management System) seperti WordPress.</p>
-        </ol>
+        </ol><br>
        <li><strong>Use Case Diagram</strong></li>
         <p>Use case diagram adalah satu dari berbagai jenis diagram UML (Unified Modelling Language) yang menggambarkan hubungan interaksi antara sistem dan aktor. Use Case dapat mendeskripsikan tipe interaksi antara si pengguna sistem dengan sistemnya.
             </p>
@@ -88,49 +88,26 @@
            <li>Berguna memperlihatkan proses aktivitas secara urut dalam sistem.</li>
            <li>Mampu menggambarkan proses bisnis, bahkan menampilkan urutan aktivitas pada sebuah proses.</li>
            <li>Sebagai bridge atau jembatan antara pembuat dengan konsumen untuk mendeskripsikan sebuah sistem.</li>
-       </ul>
+       </ul><br>
         <li><strong>Komponen Use Case Diagram</strong></li>
         <img src="sources/useCase.png">
-            <p>Gambar 1. Komponen Use Case</p>
-        <li><strong>Bentuk Data Flow Diagram</strong></li>
-        <p>Terdapat dua bentuk DFD, yaitu Diagram Alur Data Fisik, dan
-            Diagram Alur data Logika. Diagram alur data fisik lebih
-            menekankan pada bagaimana proses dari sistem diterapkan,
-            sedangkan diagram alur data logika lebih menekankan proses-proses
-            apa yang terdapat di sistem.</p>
-            <p><strong>5.1 Bentuk Alur Data Fisik (DADF)</strong></p>
-            <p>DADF lebih tepat digunakan untuk menggambarkan sistem yang ada
-                (sistem yang lama). Penekanan dari DADF adalah bagaimana
-                proses-proses dari sistem diterapkan (dengan cara apa, oleh siapa
-                dan dimana), termasuk proses-proses manual.<br>
-                Untuk memperoleh gambaran bagaimana sistem yang ada
-                diterapkan, DADF harus memuat :
-                </p>
-            <ol>
-                <li>Proses-proses manual juga digambarkan.</li>
-                <li>Nama dari alur data harus memuat keterangan yang cukup terinci
-                    untuk menunjukkan bagaimana pemakai sistem memahami kerja
-                    sistem.</li>
-                <li>Simpanan data dapat menunjukkan simpanan non komputer.</li>
-                <li>Nama dari simpanan data harus menunjukkan tipe penerapannya
-                    apakah secara manual atau komputerisasi. Secara manual
-                    misalnya dapat menunjukkan buku catatat, meja pekerja. Sedang
-                    cara komputerisasi misalnya menunjukkan file urut, file database.</li>
-                <li>Proses harus menunjukkan nama dari pemroses, yaitu orang,
-                    departemen, sistem komputer, atau nama program komputer yang
-                    mengakses proses tersebut.</li>
+            <p>Gambar 1. Komponen Use Case</p><br>
+        <li><strong>Activity Diagram</strong></li>
+        <p>Activity Diagram atau Diagram aktivitas adalah bentuk visual dari alur kerja yang berisi aktivitas dan tindakan, yang juga dapat berisi pilihan, atau pengulangan. 
+            Dalam Unified Modeling Language(UML), diagram aktivitas dibuat untuk menjelaskan aktivitas komputer maupun alur aktivitas dalam organisasi. 
+            Selain itu diagram aktivitas juga menggambarkan alur kontrol secara garis besar.</p>
+        <p>Berikut beberapa tujuan dari activity diagram:
+            <ol type="1">
+                <li>Menjelaskan urutan aktivitas dalam suatu proses.</li>
+                <li>Di dalam dunia bisnis biasanya digunakan untuk modeling (memperlihatkan urutan proses bisnis).</li>
+                <li>Mudah dalam memahami proses yang ada dalam sistem secara keseluruhan.</li>
+                <li>Merupakan metode perancangan yang terstruktur, mirip dengan Flowchart maupun Data Flow Diagram (DFD).</li>
+                <li>Mengetahui aktivitas aktor/pengguna berdasarkan use case/diagram yang dibuat sebelumnya.</li> 
             </ol>
-            <img src="sources/dadf-1.PNG">
-                <p>Gambar 2. Diagram Alur Data Fisik</p>
-            <p><strong>5.2 Bentuk Alur Data Logika (DADL)</strong></p>
-            <p>DADL lebih tepat digunakan untuk menggambarkan sistem yang
-                akan diusulkan (sistem yang baru). Untuk sistem komputerisasi,
-                penggambaran DADL hanya menunjukkan kebutuhan proses dari
-                sistem yang diusulkan secara logika, biasanya proses-proses yang
-                digambarkan hanya merupakan proses-proses secara komputer saja.</p>
-                <img src="sources/dadl.PNG">
-                    <p>Gambar 3. Diagram Alur Data Logika</p>
-
+        </p><br>
+            <li><strong>Komponen Activity Diagram</strong></li>
+            <img src="sources/Komponen AD.png" style="width: 600px; height: 580px;">   
+            <p>Gambar 2. Komponen Activity Diagram</p><br>
         <li><strong>Syarat-Syarat Pembuatan Prototype</strong></li>
             <p>Prototipe adalah sebuah bentuk dari model awal maupun contoh yang akan dilakukan pembuatan untuk melakukan kegiatan uji coba dari sebuah konsep yang dimana akan dilakukan pengenalan. Prototipe sendiri adalah sebuah tahapan kedua yang akan dilakukan sebelum melakukan kegiatan produksi massal. Sehingga tahap pertama adalah pembuatan ide maupun menyusun konsep awal dan setelahnya akan melakukan pembuatan dari prototipe. Dengan adanya prototipe sendiri maka kita akan melakukan pemilimalisiran kesalahan dalam membuat keputusan.<br>
                 Syarat-syarat yang diperlukan untuk membangun prototype adalah :</p>
@@ -145,7 +122,7 @@
     <ol>
         <li>Metode Prototipe</li>
         <img src="sources/prototyping.png">
-            <p>Gambar 4. Metode Prototipe</p>
+            <p>Gambar 3. Metode Prototipe</p>
         <p>Metode waterfall merupakan model pengembangan sistem informasi
             yang sistematik dan sekuensial. Metode Waterfall
             memiliki tahapan-tahapan sebagai berikut :</p>
@@ -236,24 +213,24 @@
             <li>Use Case Diagram</li> 
             <p> Use Case Diagram merupakan daftar aksi atau tahapan yang mendefinisikan interaksi antara aktor dan sistem untuk mencapai suatu tujuan</p>
             <img src="sources/Use Case Diagram.png" style="width: 700px; height: 600px;">
-            <p>Gambar Use Case Diagram</p><br>
+            <p>Gambar 4. Use Case Diagram</p><br>
             <li>Activity Diagram</li>
                 <p>Activity Diagram merupakan rancangan aliran aktivitas atau aliran kerja dalam sebuah sistem yang akan dijalankan. 
                     Activity Diagram juga digunakan untuk mendefinisikan atau mengelompokan aluran tampilan dari sistem tersebut.</p><br>
                 <ol type="a">
                     <li>Admin</li><br>
                     <img src="sources/Activity Diagram-Admin.png">
-                    <p>Gambar Activity Diagram Admin - mengelola data pelamar</p><br>
+                    <p>Gambar 5. Activity Diagram Admin - mengelola data pelamar</p><br>
                     <li>Operator</li><br>
                     <img src="sources/Activity Diagram-Operator.png">
-                    <p>Gambar Activity Diagram Operator</p>
+                    <p>Gambar 6. Activity Diagram Operator</p>
                     <br><img src="sources/Activity Diagram-Operator (Pengembalian).png">
-                    <p>Gambar Activity Diagram Operator - Pengembalian</p><br>
+                    <p>Gambar 7. Activity Diagram Operator - Pengembalian</p><br>
                     <li>Anggota</li><br>
                     <img src="sources/Activity Diagram-Anggota.png">
-                    <p>Gambar Activity Diagram Anggota - Pendaftaran</p> 
+                    <p>Gambar 8. Activity Diagram Anggota - Pendaftaran</p> 
                     <br><img src="sources/Activity Diagram-Anggota (Peminjaman).png">
-                    <p>Gambar Activity Diagram Anggota - Peminjaman</p><br>
+                    <p>Gambar 9. Activity Diagram Anggota - Peminjaman</p><br>
                 </ol>
             <li>Desain User Interface</li>
             <p>Desain User Interface (UI) adalah proses yang digunakan desainer untuk membuat tampilan dalam perangkat lunak atau perangkat terkomputerisasi, dengan fokus pada tampilan atau gaya.</p>
