@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -146,7 +147,7 @@
             <p>Pada tahap ini berfokus terhadap fitur yang akan dikembangkan dalam sistem. Dalam sistem terdapat 3 hak akses pengguna yaitu Admin, Operator dan Anggota. 
                 Berikut adalah fitur yang ada di sistem. </p>
             <ol>
-               <li>Admin</li>
+            <li>Admin</li>
             <ol type="a">
                 <li>Admin dapat login dan logout</li>
                 <li>Admin dapat melihat data buku</li>
@@ -175,8 +176,7 @@
                 <li>Anggota dapat melihat riwayat transaksi</li>
                 <li>Anggota dapat mengelola data pribadi</li>
             </ol>
-        </ol>
-            <br>
+            </ol><br>
             <li>Analisis Kebutuhan Non Fungsional</li>
             <p>Kebutuhan non-fungsional merupakan kebutuhan diluar kebutuhan fungsional yaitu meliputi kebutuhan akan spesifikasi hardware dan kebutuhan software yang sangat mempengaruhi beroprasinya website. 
                 Adapun kebutuhan fungsional meliputi:</P>
@@ -208,7 +208,7 @@
                 <li>Anggota<br>Yaitu siswa/siswi yang telah terdaftar sebagai anggota perpustakaan. Anggota dapat melihat data buku yang tersedia di perpustakaan dan melihat transaksi peminjaman buku.</li>
                 <li>Operator<br>Yaitu bagian yang mempunyai akses penuh untuk mengelola data buku,  peminjaman dan pengembalian buku, dan data anggota.</li>
                 <li>Admin<br>Yaitu bagian yang hanya bisa melihat data buku dan anggota serta mengelola data operator.</li>
-            </ol>
+            </ol> 
             <li>Activity Diagram</li>
                 <p>Activity Diagram merupakan rancangan aliran aktivitas atau aliran kerja dalam sebuah sistem yang akan dijalankan. 
                     Activity Diagram juga digunakan untuk mendefinisikan atau mengelompokan aluran tampilan dari sistem tersebut.
@@ -232,7 +232,7 @@
                     <p>Gambar 9. Activity Diagram Anggota - Peminjaman</p><br>
                 </ol>
             <li>Desain User Interface</li>
-            <p>Desain User Interface (UI) adalah proses yang digunakan desainer untuk membuat tampilan dalam perangkat lunak atau perangkat terkomputerisasi, dengan fokus pada tampilan atau gaya.</p>
+            <p>Desain User Interface (UI) adalah proses yang digunakan desainer untuk membuat tampilan dalam        perangkat lunak atau perangkat terkomputerisasi, dengan fokus pada tampilan atau gaya.</p>
                 <ol type="a">
                     <li>UI Halaman Login</li>
                     <img src="sources/login.png">
@@ -248,6 +248,7 @@
                     <p>Gambar 13. Desain Interface pada halaman Anggota.</p>
                 </ol>
         </ol>
-    </ol>    
+    </ol>
+        
 </body>
 </html>
