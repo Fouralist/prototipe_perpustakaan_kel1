@@ -71,7 +71,6 @@
            <li>Berguna memperlihatkan proses aktivitas secara urut dalam sistem.</li>
            <li>Mampu menggambarkan proses bisnis, bahkan menampilkan urutan aktivitas pada sebuah proses.</li>
            <li>Sebagai bridge atau jembatan antara pembuat dengan konsumen untuk mendeskripsikan sebuah sistem.</li>
-
        </ul>
         <p>Komponen Use Case Diagram</p>
         <img src="sources/useCase.png">
@@ -91,7 +90,6 @@
         <p>Gambar 2. Komponen Activity Diagram</p>
         <li><strong>Prototype</strong></li>
             <p>Prototype adalah sebuah bentuk dari model awal maupun contoh yang akan dilakukan pembuatan untuk melakukan kegiatan uji coba dari sebuah konsep yang dimana akan dilakukan pengenalan. Prototype sendiri adalah sebuah tahapan kedua yang akan dilakukan sebelum melakukan kegiatan produksi massal. Sehingga tahap pertama adalah pembuatan ide maupun menyusun konsep awal dan setelahnya akan melakukan pembuatan dari prototype. Dengan adanya prototype sendiri maka kita akan melakukan pemilimalisiran kesalahan dalam membuat keputusan.<br>
-
        </ul><br>
         <li><strong>Activity Diagram</strong></li>
         <p>Activity Diagram atau Diagram aktivitas adalah bentuk visual dari alur kerja yang berisi aktivitas dan tindakan, yang juga dapat berisi pilihan, atau pengulangan. 
@@ -111,7 +109,6 @@
             <p>Gambar 3. Komponen Activity Diagram</p><br>
         <li><strong>Syarat-Syarat Pembuatan Prototype</strong></li>
             <p>Prototipe adalah sebuah bentuk dari model awal maupun contoh yang akan dilakukan pembuatan untuk melakukan kegiatan uji coba dari sebuah konsep yang dimana akan dilakukan pengenalan. Prototipe sendiri adalah sebuah tahapan kedua yang akan dilakukan sebelum melakukan kegiatan produksi massal. Sehingga tahap pertama adalah pembuatan ide maupun menyusun konsep awal dan setelahnya akan melakukan pembuatan dari prototipe. Dengan adanya prototipe sendiri maka kita akan melakukan pemilimalisiran kesalahan dalam membuat keputusan.<br>
-
                 Syarat-syarat yang diperlukan untuk membangun prototype adalah :</p>
             <ul>
                 <li>Memiliki kesesuaian dengan sebuah bentuk asli yang ada</li>
