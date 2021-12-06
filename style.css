@@ -1,5 +1,12 @@
-html,body{margin:1;padding:0}
-body{font: 76% arial,sans-serif;text-align:justify}
+html,body{
+    margin:0;
+    padding:0
+}
+body{
+    font: 76% arial,sans-serif;
+    text-align:justify;
+    padding: 0 30vh;
+}
 h2, h3{
     text-align: center;
     margin:5px 10px 10px;
