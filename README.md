@@ -122,7 +122,7 @@
     <br>
     <h4>2.2 Metode Perancangan</h4>
     <ol>
-        <li>Metode Prototipe</li>
+        <li>Metode Prototype</li>
         <img src="sources/prototyping.png">
             <p>Gambar 4. Metode Prototype</p>
         <p>Metode Prototype merupakan salah satu metode siklus hidup sistem yang didasarkan pada 
@@ -252,7 +252,6 @@
                     <p>Gambar 14. Desain Interface pada halaman Anggota.</p>
                 </ol>
         </ol>
-    </ol>
-        
+    </ol>     
 </body>
 </html>
