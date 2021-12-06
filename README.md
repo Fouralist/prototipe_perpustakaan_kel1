@@ -114,25 +114,25 @@
             menjadi sistem final. yang artinya sistem akan dikembangkan lebih cepat dari pada
             metode tradisional dan biayanya lebih rendah. Berikut tahap-tahap metode Prototype  :</p>
         <ol>
-            <li>Ananlisis Kebutuhan</li>
+            <li type="a">Ananlisis Kebutuhan</li>
             <p>Di tahap ini pengembang melakukan identifikasi software 
                 dan semua kebutuhan sistem yang akan dibuat..</p>
-            <li>Membangun Prototyping</li>
+            <li  type="a">Membangun Prototyping</li>
             <p>Membangun prototyping dengan membuat perancangan sementara yang berfokus pada penyajian 
                 kepada pelanggan (misalnya dengan membuat input dan format output).</p>
-            <li>Evaluasi Prototyping</li>
+            <li  type="a">Evaluasi Prototyping</li>
             <p>Pada tahap ini, Evaluasi ini dilakukan untuk 
                 mengetahui apakah prototyping sudah sesuai dengan harapan pelanggan..</p>
-            <li>Pengkodean Sistem</li>
+            <li  type="a">Pengkodean Sistem</li>
             <p>Pada tahap ini prototyping yang sudah disetujui 
                 akan diubah ke dalam bahasa pemrograman.</p>
-            <li>Menguji Sistem</li>
+            <li  type="a">Menguji Sistem</li>
             <p>Di tahap ini dilakukan untuk menguji 
                 sistem perangkat lunak yang sudah dibuat Pengujian.</p>
-            <li>Evaluasi Sistem</li>
+            <li  type="a">Evaluasi Sistem</li>
             <p>Perangkat lunak yang sudah siap jadi akan dievaluasi oleh pelanggan 
                 untuk mengetahui apakah sistem sesuai dengan yang diharapkan.</p>
-            <li>Menggunakan Sistem</li>
+            <li  type="a">Menggunakan Sistem</li>
             <p>Perangkat lunak yang sudah diuji dan disetujui oleh pelanggan siap digunakan.</p>
         </ol>
     </ol>
