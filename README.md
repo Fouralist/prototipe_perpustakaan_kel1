@@ -147,8 +147,8 @@
             <p>Pada tahap ini berfokus terhadap fitur yang akan dikembangkan dalam sistem. Dalam sistem terdapat 3 hak akses pengguna yaitu Admin, Operator dan Anggota. 
                 Berikut adalah fitur yang ada di sistem. </p>
             <ol>
-            <li>Admin</li>
-            <ol type="a">
+            <li type="a">Admin</li>
+            <ol type="1">
                 <li>Admin dapat login dan logout</li>
                 <li>Admin dapat melihat data buku</li>
                 <li>Admin dapat melihat data anggota</li>
@@ -158,8 +158,8 @@
                 <li>Admin dapat mengelola data pribadi</li>
                 <li>Admin dapat menambahkan operator</li>
             </ol>
-            <li>Operator</li>
-            <ol type="a">
+            <li type="a">Operator</li>
+            <ol type="1">
                 <li>Operator dapat login dan logout</li>
                 <li>Operator dapat mengelola dan melihat data buku</li>
                 <li>Operator dapat mengelola data anggota</li>
@@ -168,15 +168,16 @@
                 <li>Operator dapat mengelola data pribadi</li>
                 <li>Operator dapat menambahkan anggota</li>
             </ol>
-            <li>Anggota</li>
-            <ol type="a">
+            <li type="a">Anggota</li>
+            <ol type="1">
                 <li>Anggota dapat login dan logout</li>
                 <li>Anggota dapat melihat data buku</li>
                 <li>Anggota dapat melihat data transaksi</li>
                 <li>Anggota dapat melihat riwayat transaksi</li>
                 <li>Anggota dapat mengelola data pribadi</li>
             </ol>
-            </ol><br>
+            </ol>
+            <br>
             <li>Analisis Kebutuhan Non Fungsional</li>
             <p>Kebutuhan non-fungsional merupakan kebutuhan diluar kebutuhan fungsional yaitu meliputi kebutuhan akan spesifikasi hardware dan kebutuhan software yang sangat mempengaruhi beroprasinya website. 
                 Adapun kebutuhan fungsional meliputi:</P>
